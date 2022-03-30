@@ -1,4 +1,11 @@
-# Oiiiee eu sou o Fabio!
+Olá 👋  
+- ⏭ Estudante de POS GRADUAÇÂO em MBA EM GESTÃO ESTRATÉGICA DE PROJETOS E METODOLOGIAS ÁGEIS.
+- 🔭 Atualmente estou trabalhando na DBServer como estagiário de desenvolvimento de software, desde 2021/10.
+- 🌱 Atualmente estou aprendendo Java,Node, React, Testes com Jest e JUnit, mongoDB e banco h2
+- 👯 Colaborei com aplicativo de acessibilidade em linguagem React js + Material UI.
+- 🤔 Estou estudando testes funcionais e automatizados.
+- 📫 Como me encontrar: https://www.linkedin.com/in/tecnicofabio/
+
 
 <div align="center">
   <a href="https://github.com/fabiojcbatista">
