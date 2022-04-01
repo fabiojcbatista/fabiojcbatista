@@ -1,21 +1,62 @@
+
 Olá 👋  
 - ⏭ Estudante de POS GRADUAÇÂO em MBA EM GESTÃO ESTRATÉGICA DE PROJETOS E METODOLOGIAS ÁGEIS.
 - 🔭 Atualmente estou trabalhando na DBServer como estagiário de desenvolvimento de software, desde 2021/10.
 - 🌱 Atualmente estou aprendendo Java,Node, React, Testes com Jest e JUnit, mongoDB e banco h2
 - 👯 Colaborei com aplicativo de acessibilidade em linguagem React js + Material UI.
 - 🤔 Estou estudando testes funcionais e automatizados.
-- 📫 Como me encontrar: https://www.linkedin.com/in/tecnicofabio/
+- 📫 <a href="https://www.linkedin.com/in/tecnicofabio/">Como me encontrar</a>
 
 
-<div align="center">
+##
+
+<div>
   <a href="https://github.com/fabiojcbatista">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiojcbatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiojcbatista&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+ ##
+  
+ <div style="display: inline_block"><br>
+     <a href="https://github.com/fabiojcbatista/mergulhoAPI">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=mergulhoAPI&theme=omni&layout=compact" />
+</a>
+     <a href="https://github.com/fabiojcbatista/Java-alura-TDD">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=Java-alura-TDD&theme=omni&layout=compact" />
+</a>
+   <a href="https://github.com/fabiojcbatista/projeto-clone-airbnb">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=projeto-clone-airbnb&theme=omni&layout=compact" />
+</a>
+    <a href="https://github.com/fabiojcbatista/airbnbclone-beta-frontend">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=airbnbclone-beta-frontend&theme=omni&layout=compact" />
+</a>
+   <a href="https://github.com/fabiojcbatista/airbnbclone-beta-backend">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=airbnbclone-beta-backend&theme=omni&layout=compact" />
+</a>
+     <a href="https://github.com/fabiojcbatista/curso-typescript-nodejs-react-2021-2">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=curso-typescript-nodejs-react-2021-2&theme=omni&layout=compact" />
+</a>
+    <a href="https://github.com/fabiojcbatista/Desafio">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=Desafio&theme=omni&layout=compact" />
+</a>
+   <a href="https://github.com/fabiojcbatista/Treinamento">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=Treinamento&theme=omni&layout=compact" />
+</a>
+    
+  </div>
+  
   ##
   
-<div style="display: inline_block"><br>
+  <div>
+    
+  ![Snake animation](https://github.com/fabiojcbatista/fabiojcbatista/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
+  ##
+  
+  <div style="display: inline_block"><br>
   <img align="center" alt="Fabiojcbatista-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Fabiojcbatista-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Fabiojcbatista-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -37,12 +78,12 @@ Olá 👋
 </div>
   
   ##
- 
-<div> 
+  
+  <div> 
   <a href = "mailto:fabiojcbweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tecnicofabio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://devicon.dev/" target="_blank">DEVICON</a> 
-   
-  ![Snake animation](https://github.com/fabiojcbatista/fabiojcbatista/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+  <a href="https://devicon.dev/" target="_blank">...</a> 
+  </div>
+  
+  ##
+  
