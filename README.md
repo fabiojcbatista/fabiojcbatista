@@ -35,18 +35,6 @@ Olá 👋
 	
 </p>
   
-  ##
-
-<div>
-  <center>
-    
-  <img alt="All commits" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=fabiojcbatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiojcbatista&layout=compact" alt="saurav-skl" />
-    <img alt="layout" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiojcbatista&layout=compact&langs_count=7&theme=dracula"/>
-   <img src="https://github-profile-trophy.vercel.app/?username=fabiojcbatista&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
-</center>
-</div>
-  
  ##
   
  <div style="display: inline_block"><br>
@@ -76,6 +64,18 @@ Olá 👋
 </a>
     
   </div>
+ ##
+
+<div>
+  <center>
+    
+  <img alt="All commits" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=fabiojcbatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiojcbatista&layout=compact" alt="saurav-skl" />
+    <img alt="layout" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiojcbatista&layout=compact&langs_count=7&theme=dracula"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=fabiojcbatista&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+  <img src="https://activity-graph.herokuapp.com/graph?username=fabiojcbatista&theme=react-dark"/>
+</center>
+</div>
   
   ##
   
