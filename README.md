@@ -1,3 +1,11 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiojcbatista" alt="chiraag-kakar" /> </p>
+
+
+<p align="center">
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+</p>
+
+##
 
 Olá 👋  
 - ⏭ Estudante de POS GRADUAÇÂO em MBA EM GESTÃO ESTRATÉGICA DE PROJETOS E METODOLOGIAS ÁGEIS.
@@ -11,9 +19,13 @@ Olá 👋
 ##
 
 <div>
-  <a href="https://github.com/fabiojcbatista">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiojcbatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiojcbatista&layout=compact&langs_count=7&theme=dracula"/>
+  <center>
+    
+  <img alt="All commits" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=fabiojcbatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiojcbatista&layout=compact" alt="saurav-skl" />
+    <img alt="layout" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiojcbatista&layout=compact&langs_count=7&theme=dracula"/>
+   
+</center>
 </div>
   
  ##
