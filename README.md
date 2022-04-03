@@ -38,7 +38,7 @@
   
  <div style="display: inline_block"><br>
      <a href="https://github.com/fabiojcbatista/mergulhoAPI">
-  <img height="150em" width="40px" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=mergulhoAPI&theme=omni&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=mergulhoAPI&theme=omni&layout=compact" />
 </a>
      <a href="https://github.com/fabiojcbatista/Java-alura-TDD">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=Java-alura-TDD&theme=omni&layout=compact" />
@@ -63,6 +63,7 @@
 </a>
     
   </div>
+	
  ##
 
 <div>
