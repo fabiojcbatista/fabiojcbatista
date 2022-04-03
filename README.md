@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiojcbatista" alt="chiraag-kakar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiojcbatista" alt="fabiojcbatista" /> </p>
 
 
 <p align="center">
@@ -7,19 +7,18 @@
 
 ##
 
-Olá 👋  
-- ⏭ Estudante de POS GRADUAÇÂO em MBA EM GESTÃO ESTRATÉGICA DE PROJETOS E METODOLOGIAS ÁGEIS.
+👋  
+
+- ⏭ Estudante: POS GRADUAÇÂO MBA EM GESTÃO ESTRATÉGICA DE PROJETOS E METODOLOGIAS ÁGEIS.
 - 🔭 Atualmente estou trabalhando na DBServer como estagiário de desenvolvimento de software, desde 2021/10.
 - 🌱 Atualmente estou aprendendo Java,Node, React, Testes com Jest e JUnit, mongoDB e banco h2
 - 👯 Colaborei com aplicativo de acessibilidade em linguagem React js + Material UI.
 - 🤔 Estou estudando testes funcionais e automatizados.
 - 📫 <a href="https://www.linkedin.com/in/tecnicofabio/">Como me encontrar</a>
 
-
 ##
 
-<h4 align="center">Some Technologies, Languages, Frameworks and others<h4/>
-	
+<h4 align="center">Algumas tecnologias<h4/>
 <p align="center">
 	<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/CSS-3498DB?&style=for-the-badge&logo=css3&logoColor=white" alt="html" />&nbsp;&nbsp;
@@ -39,7 +38,7 @@ Olá 👋
   
  <div style="display: inline_block"><br>
      <a href="https://github.com/fabiojcbatista/mergulhoAPI">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=mergulhoAPI&theme=omni&layout=compact" />
+  <img height="150em" width="40px" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=mergulhoAPI&theme=omni&layout=compact" />
 </a>
      <a href="https://github.com/fabiojcbatista/Java-alura-TDD">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=Java-alura-TDD&theme=omni&layout=compact" />
