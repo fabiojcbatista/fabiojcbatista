@@ -1,10 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiojcbatista" alt="fabiojcbatista" /> </p>
 
-
-<p align="center">
-<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
-</p>
-
 ##
 
 👋  
