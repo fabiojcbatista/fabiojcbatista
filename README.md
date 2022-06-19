@@ -5,10 +5,10 @@
 👋  
 
 - ⏭ Estudante: POS GRADUAÇÂO MBA EM GESTÃO ESTRATÉGICA DE PROJETOS E METODOLOGIAS ÁGEIS.
-- 🔭 Atualmente estou trabalhando na DBServer como estagiário de desenvolvimento de software, desde 2021/10.
-- 🌱 Atualmente estou aprendendo Java,Node, React, Testes com Jest e JUnit, mongoDB e banco h2
+- 🔭 Atualmente estou trabalhando na DBServer como Testador de Software, desde 2022/05.
+- 🌱 Atualmente estou aprendendo Java e testes de API e WEb
 - 👯 Colaborei com aplicativo de acessibilidade em linguagem React js + Material UI.
-- 🤔 Estou estudando testes funcionais e automatizados.
+- 🤔 Estou estudando testes automatizados.
 - 📫 <a href="https://www.linkedin.com/in/tecnicofabio/">Como me encontrar</a>
 
 ##
