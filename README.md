@@ -9,7 +9,7 @@
 - 🌱 Atualmente estou aprendendo Java e testes de API e WEb
 - 👯 Colaborei com aplicativo de acessibilidade em linguagem React js + Material UI.
 - 🤔 Estou estudando testes automatizados.
-- 📫 <a href="https://www.linkedin.com/in/tecnicofabio/">Como me encontrar</a>
+- 📫 <a href="https://www.linkedin.com/in/tecnicofabio/">Meu linkedin</a>
 
 ##
 
