@@ -3,7 +3,7 @@
 ##
 
 👋  
-
+- ⏭  POS GRADUAÇÂO MBA BIG data e inteligência competitiva
 - ⏭  POS GRADUAÇÂO MBA EM GESTÃO ESTRATÉGICA DE PROJETOS E METODOLOGIAS ÁGEIS.
 - ⏭  GRADUAÇÂO INFORMÁTICA PARA NEGÓCIOS.
 - ⏭  TÉCNICO EM INFORMÁTICA
