@@ -4,8 +4,8 @@
 
 👋  
 - ⏭  POS GRADUAÇÂO MBA BIG data e inteligência competitiva
-- ⏭  POS GRADUAÇÂO MBA EM GESTÃO ESTRATÉGICA DE PROJETOS E METODOLOGIAS ÁGEIS.
-- ⏭  GRADUAÇÂO INFORMÁTICA PARA NEGÓCIOS.
+- ⏭  POS GRADUADO EM MBA EM GESTÃO ESTRATÉGICA DE PROJETOS E METODOLOGIAS ÁGEIS.
+- ⏭  GRADUADO EM INFORMÁTICA PARA NEGÓCIOS.
 - ⏭  TÉCNICO EM INFORMÁTICA
 - 🔭 Atualmente estou trabalhando na DBServer como Testador de Software, desde 2022/05.
 - 🌱 Atualmente estou aprendendo Java e testes de API, Web e Teste Unitário em Metamodelo
@@ -114,4 +114,3 @@
   </div>
   
   ##
-  
