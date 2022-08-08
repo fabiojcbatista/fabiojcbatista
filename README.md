@@ -10,7 +10,7 @@
 - 🔭 Atualmente estou trabalhando na DBServer como Testador de Software, desde 2022/05.
 - 🌱 Atualmente estou aprendendo Java e testes de API, Web e Teste Unitário em Metamodelo
 - 👯 Colaborei com aplicativo de acessibilidade em linguagem React js + Material UI.
-- 🤔 Estou estudando testes automatizados.
+- 🤔 Estou estudando testes automatizados e MBA pela Descomplica.
 - 📫 <a href="https://www.linkedin.com/in/tecnicofabio/">Meu linkedin</a>
 
 ##
