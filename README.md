@@ -10,7 +10,7 @@
 - 🔭 Atualmente estou trabalhando na DBServer como Testador de Software, desde 2022/05.
 - 🌱 Atualmente estou aprendendo Java e testes de API, Web e Teste Unitário em Metamodelo
 - 👯 Colaborei com aplicativo de acessibilidade em linguagem React js + Material UI.
-- 🤔 Estou estudando testes automatizados de integração e funcional e MBA pela Descomplica.
+- 🤔 Estou estudando testes automatizados de integração e funcional e Pós Graduação MBA em Big Data e Inteligência Competitiva pela Descomplica.
 - 📫 <a href="https://www.linkedin.com/in/tecnicofabio/">Meu linkedin</a>
 
 ##
@@ -54,36 +54,6 @@
   <img align="center" alt="Fabiojcbatista-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"> 
 </div>
   
- ##
-  
- <div style="display: inline_block"><br>
-     <a href="https://github.com/fabiojcbatista/mergulhoAPI">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=mergulhoAPI&theme=omni&layout=compact" />
-</a>
-     <a href="https://github.com/fabiojcbatista/Java-alura-TDD">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=Java-alura-TDD&theme=omni&layout=compact" />
-</a>
-   <a href="https://github.com/fabiojcbatista/projeto-clone-airbnb">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=projeto-clone-airbnb&theme=omni&layout=compact" />
-</a>
-    <a href="https://github.com/fabiojcbatista/airbnbclone-beta-frontend">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=airbnbclone-beta-frontend&theme=omni&layout=compact" />
-</a>
-   <a href="https://github.com/fabiojcbatista/airbnbclone-beta-backend">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=airbnbclone-beta-backend&theme=omni&layout=compact" />
-</a>
-     <a href="https://github.com/fabiojcbatista/curso-typescript-nodejs-react-2021-2">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=curso-typescript-nodejs-react-2021-2&theme=omni&layout=compact" />
-</a>
-    <a href="https://github.com/fabiojcbatista/Desafio">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=Desafio&theme=omni&layout=compact" />
-</a>
-   <a href="https://github.com/fabiojcbatista/Treinamento">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcbatista&repo=Treinamento&theme=omni&layout=compact" />
-</a>
-    
-  </div>
-	
  ##
 
 <div>
